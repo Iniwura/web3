@@ -1,0 +1,14 @@
+GROUNDSHIFT DEMO VENDOR RECORD
+
+Vendor: Northstar Cloud Systems
+Record version: 1
+
+Certification status: VALID
+Valid through: 2026-12-31
+Outstanding critical findings: NONE
+
+Eligibility rule:
+The vendor is eligible for production access while its certification is current and there are no outstanding critical findings.
+
+Current assessment:
+Northstar Cloud Systems satisfies the eligibility requirements.
