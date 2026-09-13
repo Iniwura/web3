@@ -1,0 +1,11 @@
+ECHOCHECK DEMO SOURCE A
+
+Publication: Northstar Labs
+Type: Original company announcement
+Date: 2026-09-13
+
+Claim:
+Northstar Labs secured a $25 million production partnership with Meridian Systems.
+
+Provenance:
+This document is the original Northstar Labs announcement of the partnership. It does not cite another publication as the source of this claim.
