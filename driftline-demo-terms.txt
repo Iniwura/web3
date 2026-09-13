@@ -2,22 +2,22 @@ DRIFTLINE DEMO SERVICE TERMS
 Version 3
 
 1. Service
-The service provides hosted developer tooling to the customer.
+The customer is provided access to hosted developer tooling.
 
 2. Price
-The subscription now costs USD 25 per month.
+The monthly subscription price is USD 25.
 
 3. Cancellation
-The customer must keep the subscription for at least 90 days before cancellation is allowed.
+The customer may cancel only after keeping the subscription for at least 90 days.
 
 4. Data use
-Customer data may now be used to operate the service and to train and improve machine-learning models.
+Customer data may be used to operate the service and for training and improving machine-learning models.
 
 5. Data retention
-Operational logs may now be kept without a fixed deletion deadline.
+Operational logs may be retained without a fixed deletion deadline.
 
 6. License
-The customer receives a non-exclusive right to use the service while the subscription is active.
+The customer has a non-exclusive right to use the service while the subscription is active.
 
 7. Liability
-Other liability is now limited to one month of subscription fees.
+Liability is limited to one month of subscription fees.
