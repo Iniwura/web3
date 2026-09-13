@@ -1,0 +1,11 @@
+ECHOCHECK DEMO SOURCE B
+
+Publication: ChainWire Daily
+Type: Derivative news report
+Date: 2026-09-13
+
+Claim:
+Northstar Labs secured a $25 million production partnership with Meridian Systems.
+
+Provenance:
+This report is based entirely on the Northstar Labs company announcement. The partnership amount and existence of the deal are attributed to that announcement. No independent reporting, filing, interview, or dataset is used to establish the claim.
