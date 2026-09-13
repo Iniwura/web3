@@ -1,0 +1,11 @@
+ECHOCHECK DEMO SOURCE C
+
+Publication: Meridian Procurement Registry
+Type: Independent procurement record
+Date: 2026-09-13
+
+Claim:
+Meridian Systems approved a $25 million production partnership with Northstar Labs.
+
+Provenance:
+This record is an independent procurement entry maintained by Meridian Systems. It does not rely on the Northstar Labs announcement or on ChainWire Daily for the existence or value of the partnership.
